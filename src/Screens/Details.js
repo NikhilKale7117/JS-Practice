@@ -1,4 +1,4 @@
-import React,{useState} from 'react'
+import React, {useState} from 'react';
 import { Button, ScrollView, StyleSheet, Text, TouchableOpacity, View , Dimensions} from 'react-native'
 import ImageDeatails from '../../components/ImageDeatails'
 
