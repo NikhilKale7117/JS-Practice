@@ -1,4 +1,4 @@
-import React ,{useState}from 'react'
+import React ,{useState}from 'react';
 import { StyleSheet, Text, TextInput, View } from 'react-native'
 import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
 

@@ -1,6 +1,6 @@
 import React, {useState} from 'react';
 import { Button, ScrollView, StyleSheet, Text, TouchableOpacity, View , Dimensions} from 'react-native'
-import ImageDeatails from '../../components/ImageDeatails'
+import ImageDeatails from '../../components/ImageDeatails';
 
 const {height,width}= Dimensions.get('window');
 const randomRgb =()=>{
